@@ -111,6 +111,8 @@ Se corroboran con las claves publicas de un VerificationMethod.
 
 [Wikipedia](https://en.wikipedia.org/wiki/Self-sovereign_identity)
 
+[Verifiable Credentials powered by Auth0](https://verifiablecredentials.dev/)
+
 [19 FAQs on Verifiable Credentials and Self-Sovereign Identity](https://academy.affinidi.com/faqs-on-verifiable-credentials-and-self-sovereign-identity-3c3a505878bc)
 
 [Okta - Autonomous Identity Management](https://www.okta.com/identity-101/self-sovereign-identity/)
@@ -154,7 +156,6 @@ type User = {
 ```ts
 type User = {
   id: string;
-  userId: string;
   subscribedToNotifications: boolean;
   subscribedToInfoRequest: boolean;
 }
