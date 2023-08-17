@@ -128,6 +128,14 @@ Tiene partnership con el GCBA, lo propone como actor clave del modelo.
 [Whitepaper](https://github.com/Quark-id/WhitePaper)
 
 
+## World App (Worldcoin)
+
+Worldcoin aims to establish universal access to the global economy regardless of country or background. It is designed to become the world's largest human identity and financial network, giving ownership to everyone. All with the intention of welcoming every person on the planet and establishing a place for all of us to benefit in the age of AI.
+
+[Sitio web](https://worldcoin.org/)
+[Worldcoin Developer Portal](https://developer.worldcoin.org/login)
+
+
 # Data model
 
 ## User
